@@ -6,7 +6,9 @@
 
 	<display-name>Spring MVC Application</display-name>
 
-	<!-- Spring MVC -->
+
+
+	<!-- Spring MVC  ss  sss ss -->
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
